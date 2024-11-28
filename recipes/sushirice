@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset"UTF-8">
+        <h1>Sushi Rice</h1>
+        <img src="https://www.allrecipes.com/thmb/df3dPqkHbOhC5m9YJWvwtODmkVA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/99211-perfect-sushi-rice-DDMFS-4x3-3734ec6bd773431eac9953573a20bda1.jpg" alt="super easy to make!">
+
+    </head>
+    <body>
+        <h1>Description</h1>
+        <p>Sushi rice is less of a type of rice than it is a preparation method. It's cooked<br>
+            short-grain white rice combined with rice vinegar and other ingredients, cooled<br>
+            with a specific kind of duck and takes days to prepare, but this version comes together<br>
+        </p>
+        <p>The best rice for sushi is short-grain Japanese rice — this is what's in the bags<br>
+            labeled "sushi rice" at the store.<br>
+            This glutinous rice has a higher starch content than other varieties, which gives<br>
+            it the sticky texture you're after when you make sushi.<br>
+        </p>
+        <h1>Ingredients</h1>
+        <ul>
+            2 cups uncooked glutinous white rice (sushi rice)
+            3 cups water
+            1/2 cup rice vinegar
+            1 tablespoon vegetable oil
+            1/4 cup white sugar
+            1 teaspoon salt
+        </ul>
+        <h1>Steps</h1>
+        <ol>
+            Rinse the rice in a strainer nder cold running water until the water runs clear.
+            Combine rice and water in a saucepan over medium-high heat and bring to a boil.
+            Reduce heat to low, cover, and cook until rice is tender and all water has been absorbed, about 20 minutes. 
+            Meanwhile, combine rice vinegar, oil, sugar, and salt in a small saucepan over medium heat.
+            Stir into the cooked rice. Keep stirring and rice will dry as it cools.
+        </ol>
+    </body>
+</html>
